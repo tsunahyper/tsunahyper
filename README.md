@@ -7,12 +7,25 @@ I enjoy building scalable applications and tools that solve real problems. Passi
 
 ## 🛠 Technologies & Tools
 
-- **Languages:** Python, JavaScript / TypeScript  
-- **Frontend:** React, HTML5, JavaScript  
-- **Backend:** Flask, Django, Node.js / Express  
-- **Databases:** SQL, NoSQL (MongoDB, PostgreSQL)  
-- **Cloud & DevOps:** AWS (Lambda, S3, Fargate, EventBridge), Docker, CI/CD Pipelines  
-- **Others:** Git, Linux, API Integration, Microservices
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=flask,django,nodejs,express" />
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+  
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+  
+  <!-- Others -->
+  <img src="https://skillicons.dev/icons?i=git,linux" />
+</p>
 
 ---
 
@@ -32,7 +45,7 @@ I enjoy building scalable applications and tools that solve real problems. Passi
 
 ## 📫 Get in touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/haziq-azli)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/haziq-azli](https://www.linkedin.com/in/ts-haziq-azli-a3844b200/))  
 - 📧 haziq.azli3@gmail.com  
 
 ---

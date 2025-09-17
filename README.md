@@ -1,13 +1,14 @@
-# 🎮 Haziq Azli
+# 🎮 Haziq Azli  
 
-**FullStack Engineer**  
+**Full-Stack Engineer | Cloud & DevOps Enthusiast**  
 
-I enjoy building scalable applications and tools that solve real problems. Passionate about cloud-native development, automation, and creating intuitive user experiences. Currently diving deeper into the MERN stack and expanding my backend expertise.
+I enjoy building scalable applications and tools that solve real problems.  
+Passionate about **cloud-native development**, **automation**, and **intuitive user experiences**.  
+Currently exploring the **MERN stack** while expanding backend expertise.  
 
 ---
 
-## 🧰 Technologies & Tools
-
+## 🧰 Technologies & Tools  
 
 | Languages | Frontend | Backend | Databases | Cloud & DevOps | Others |
 |-----------|----------|---------|-----------|----------------|--------|
@@ -15,21 +16,22 @@ I enjoy building scalable applications and tools that solve real problems. Passi
 
 ---
 
-## 👩🏻‍💻 Projects & Passions
+## 👩🏻‍💻 Projects & Passions  
 
 - 🗺 Building a **custom issue tracker with geolocation**  
 - 🧾 Developed a **MY tax tracker** for storing & extracting receipts for personal tax use  
-- 📚 Currently learning the **MERN stack (MongoDB, Express, React, Node.js)**
+- 📚 Currently exploring the **MERN stack (MongoDB, Express, React, Node.js)**  
 
 ---
 
-## 📊 Stats
+## 📊 Analytics  
 
-![Haziq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haziqazli&show_icons=true&theme=radical)
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haziqazli&show_icons=true&theme=radical&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haziqazli&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook,tsql" /> |
 
 ---
 
-## ➡️ Get in touch  
+## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ts-haziq-azli-a3844b200/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haziq.azli3@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ts-haziq-azli-a3844b200/)   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haziq.azli3@gmail.com)   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haziqazli)  

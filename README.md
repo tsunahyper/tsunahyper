@@ -29,11 +29,7 @@ I enjoy building scalable applications and tools that solve real problems. Passi
 
 ---
 
-## ➡️ Get in touch
+## ➡️ Get in touch  
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/haziq-azli](https://www.linkedin.com/in/ts-haziq-azli-a3844b200/))  
-- 📧 haziq.azli3@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ts-haziq-azli-a3844b200/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haziq.azli3@gmail.com)
 
----
-
-> “Continuous learning and building for impact.”

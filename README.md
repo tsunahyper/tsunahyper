@@ -1,4 +1,4 @@
-# Hi there 👋 I’m Haziq Azli
+# 🎮 Haziq Azli
 
 **Full-Stack Engineer & Tech Enthusiast**  
 I enjoy building scalable applications and tools that solve real problems. Passionate about cloud-native development, automation, and creating intuitive user experiences. Currently diving deeper into the MERN stack and expanding my backend expertise.

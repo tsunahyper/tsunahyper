@@ -1,42 +1,17 @@
-# 🎮 Haziq Azli
+# 🎮 Ts. Haziq Azli
 
-**Full-Stack Engineer & Tech Enthusiast**  
+**FullStack Engineer**  
+
 I enjoy building scalable applications and tools that solve real problems. Passionate about cloud-native development, automation, and creating intuitive user experiences. Currently diving deeper into the MERN stack and expanding my backend expertise.
 
 ---
 
 ## 🧰 Technologies & Tools
 
-### 🔤 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts" />
-</p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,express" />
-</p>
-
-### 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
-</p>
-
-### 🧰 Others
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux" />
-</p>
-
+| Languages | Frontend | Backend | Databases | Cloud & DevOps | Others |
+|-----------|----------|---------|-----------|----------------|--------|
+| <img src="https://skillicons.dev/icons?i=python,js,ts" /> | <img src="https://skillicons.dev/icons?i=react,html,css" /> | <img src="https://skillicons.dev/icons?i=flask,django,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=aws,docker" /> | <img src="https://skillicons.dev/icons?i=git,linux" /> |
 
 ---
 

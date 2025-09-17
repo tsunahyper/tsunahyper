@@ -5,27 +5,38 @@ I enjoy building scalable applications and tools that solve real problems. Passi
 
 ---
 
-## 🛠 Technologies & Tools
+## 🧰 Technologies & Tools
 
-<p align="left">
-  <!-- Languages -->
+### 🔤 Languages
+<p>
   <img src="https://skillicons.dev/icons?i=python,js,ts" />
-  
-  <!-- Frontend -->
+</p>
+
+### 🎨 Frontend
+<p>
   <img src="https://skillicons.dev/icons?i=react,html,css" />
-  
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=flask,django,nodejs,express" />
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
-  
-  <!-- Cloud & DevOps -->
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,express" />
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
   <img src="https://skillicons.dev/icons?i=aws,docker" />
-  
-  <!-- Others -->
+</p>
+
+### 🧰 Others
+<p>
   <img src="https://skillicons.dev/icons?i=git,linux" />
 </p>
+
 
 ---
 
@@ -37,13 +48,13 @@ I enjoy building scalable applications and tools that solve real problems. Passi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 ![Haziq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haziqazli&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Get in touch
+## ➡️ Get in touch
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/haziq-azli](https://www.linkedin.com/in/ts-haziq-azli-a3844b200/))  
 - 📧 haziq.azli3@gmail.com  

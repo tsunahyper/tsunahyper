@@ -1,4 +1,4 @@
-# 🎮 Ts. Haziq Azli
+# 🎮 Haziq Azli
 
 **FullStack Engineer**  
 

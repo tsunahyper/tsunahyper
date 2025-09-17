@@ -15,7 +15,7 @@ I enjoy building scalable applications and tools that solve real problems. Passi
 
 ---
 
-## 🔍 What I’m working on
+## 👩🏻‍💻 Projects & Passions
 
 - 🗺 Building a **custom issue tracker with geolocation**  
 - 🧾 Developed a **MY tax tracker** for storing & extracting receipts for personal tax use  

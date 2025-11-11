@@ -2,10 +2,9 @@
 
 **Full-Stack Engineer | Cloud & DevOps Enthusiast**  
 
-I enjoy building scalable applications and tools that solve real problems.  
-Passionate about **cloud-native development**, **automation**, and **intuitive user experiences**.  
-Currently exploring the **MERN stack** while expanding backend expertise.  
-
+Enjoy building scalable applications and tools that solve real problems.  
+Recently completed the **MERN stack** while expanding backend expertise.
+Currently focusing and exploring towards **DevOps** technologies and related projects
 ---
 
 ## 🧰 Technologies & Tools  

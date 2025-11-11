@@ -2,9 +2,10 @@
 
 **Full-Stack Engineer | Cloud & DevOps Enthusiast**  
 
-Enjoy building scalable applications and tools that solve real problems.  
-Recently completed the **MERN stack** while expanding backend expertise.
-Currently focusing and exploring towards **DevOps** technologies and related projects
+- Enjoy building scalable applications and tools that solve real problems.  
+- Recently completed the **MERN stack** while expanding backend expertise.
+- Currently focusing and exploring towards **DevOps** technologies and related projects
+
 ---
 
 ## 🧰 Technologies & Tools  

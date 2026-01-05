@@ -18,7 +18,6 @@
 
 ## 👩🏻‍💻 Projects & Passions  
 
-- 🗺 Building a **custom issue tracker with geolocation**  
 - 🧾 Developed a **MY tax tracker** for storing & extracting receipts for personal tax use  
 - 📚 Currently exploring the **MERN stack (MongoDB, Express, React, Node.js)**  
 

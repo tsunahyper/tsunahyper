@@ -18,8 +18,8 @@
 
 ## 👩🏻‍💻 Projects & Passions  
 
+- 🧾 Developed a **MY aduanku** for reporting and tracking local issues with separate user and admin interfaces.
 - 🧾 Developed a **MY tax tracker** for storing & extracting receipts for personal tax use  
-- 📚 Currently exploring the **MERN stack (MongoDB, Express, React, Node.js)**  
 
 ---
 
@@ -27,7 +27,7 @@
 
 | GitHub Stats | Top Languages |
 |--------------|---------------|
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haziqazli&show_icons=true&theme=radical&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haziqazli&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook,tsql" /> |
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsunahyper&show_icons=true&theme=radical&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsunahy[er&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook,tsql" /> |
 
 ---
 

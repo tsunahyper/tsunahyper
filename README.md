@@ -23,14 +23,6 @@
 
 ---
 
-## 📊 Analytics  
-
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsunahyper&show_icons=true&theme=radical&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsunahy[er&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook,tsql" /> |
-
----
-
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ts-haziq-azli-a3844b200/)   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haziqazli)  

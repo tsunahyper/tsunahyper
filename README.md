@@ -16,7 +16,7 @@
 
 ---
 
-## 👩🏻‍💻 Projects & Passions  
+## 👩🏻‍💻 Personal Projects
 
 - 🧾 Developed a **MY aduanku** for reporting and tracking local issues with separate user and admin interfaces.
 - 🧾 Developed a **MY tax tracker** for storing & extracting receipts for personal tax use  

@@ -1,6 +1,6 @@
 # 🎮 Haziq Azli  
 
-**Full-Stack Engineer | Cloud & DevOps Enthusiast**  
+**Cloud Devops Engineer | FullStack Engineer**  
 
 - Enjoy building scalable applications and tools that solve real problems.  
 - Recently completed the **MERN stack** while expanding backend expertise.
